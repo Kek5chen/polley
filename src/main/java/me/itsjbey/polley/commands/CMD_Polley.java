@@ -212,7 +212,7 @@ public class CMD_Polley implements CommandExecutor {
 
                                     isDesc = true;
 
-                                    description.append(s.substring(5, s.length())).append(" ");
+                                    description.append(s.substring(5)).append(" ");
 
                                 } else {
 
