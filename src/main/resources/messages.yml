@@ -1,0 +1,29 @@
+No-Polley-Running: '&cThere is no Polley running right now.'
+No-Running: '&cNo Polley was running. You missed nothing!'
+Polley-Over: '&c&lThe Polley is Over! Here are the results:'
+Votes-For: '&a&lHere are the Votes you can Vote for:'
+Already-Voted: '&cYou already voted!'
+Input-Number: '&cPlease input an actual number.'
+Above-Null: '&cPlease input a number above 0.'
+Not-Exist: "&cThis Vote doesn't exist!"
+Vote-Added: '&a&lYour vote has been added!'
+Polley-Running: '&cThere is already a Polley running!'
+Polley-Started: '&a&lA new Polley has been started!'
+Help-Player:
+  - 'This is Polley. An Automated Poll Plugin for'
+  - 'Server-Owners made by ItsJBey'
+  - ''
+  - '&6/Polley Show <Number> - &7See the Votes'
+  - '&6/Polley Vote <Number> - &7Vote for the running Polley'
+  -
+Help-Team:
+   - '&6This is Polley. An Automated Poll Plugin'
+   - '&6for Server-Owners made by ItsJBey'
+   - ''
+   - '&6/Polley Create <Name> <Votes> [Desc:<Description>]'
+   - '- &7Create a new Polley'
+   - '&6/Polley Show <Number> - &7See the Votes'
+   - '&6/Polley Vote <Number> - &7Vote for the running Polley'
+   - '&6/Polley End - &7End the current Polley'
+   - '&6/Polley Results - &7Get the results of the last Polley'
+  
