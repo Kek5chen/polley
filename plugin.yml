@@ -1,0 +1,8 @@
+name: Polley
+author: ItsJBey
+version: 1.1CUSTOM
+main: me.itsjbey.polley.Main
+commands:
+  polley:
+    aliases:
+      - poll
